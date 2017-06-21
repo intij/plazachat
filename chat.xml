@@ -2,8 +2,6 @@
   <input pattern="(hola|buenas tardes|buena noches) *">
     <output value="Hola!"/>
   </input>
-</context>
-<context>
   <input pattern="(perro|perra) *">
     <output value="Perro tú!"/>
   </input>
